@@ -6,6 +6,7 @@ I like to code reliable black magic
 #### 🎓 Learning:
 - Haskell
 - Rust
+- Crystal
 
 #### ✍ Contact:
 - mail: Yuzuru@programmer.net
