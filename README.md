@@ -10,4 +10,4 @@ I like to code reliable black magic
 
 #### ✍ Contact:
 - mail: Yuzuru@programmer.net
-- Discord: Yuyun#0956
+- Discord: bludgeoning.angel
